@@ -1,0 +1,12 @@
+C:\Users\pejci\source\repos\StruktuiraniTip\Kalkulacija\bin\Release\Kalkulacija.dll
+C:\Users\pejci\source\repos\StruktuiraniTip\Kalkulacija\bin\Release\Kalkulacija.pdb
+C:\Users\pejci\source\repos\StruktuiraniTip\Kalkulacija\obj\Release\Kalkulacija.csproj.AssemblyReference.cache
+C:\Users\pejci\source\repos\StruktuiraniTip\Kalkulacija\obj\Release\Kalkulacija.csproj.CoreCompileInputs.cache
+C:\Users\pejci\source\repos\StruktuiraniTip\Kalkulacija\obj\Release\Kalkulacija.dll
+C:\Users\pejci\source\repos\StruktuiraniTip\Kalkulacija\obj\Release\Kalkulacija.pdb
+C:\Users\Jana\Desktop\wetransfer_bazepodataka2-sql_2021-12-01_1852\StruktuiraniTip\StruktuiraniTip\Kalkulacija\bin\Release\Kalkulacija.dll
+C:\Users\Jana\Desktop\wetransfer_bazepodataka2-sql_2021-12-01_1852\StruktuiraniTip\StruktuiraniTip\Kalkulacija\bin\Release\Kalkulacija.pdb
+C:\Users\Jana\Desktop\wetransfer_bazepodataka2-sql_2021-12-01_1852\StruktuiraniTip\StruktuiraniTip\Kalkulacija\obj\Release\Kalkulacija.csproj.AssemblyReference.cache
+C:\Users\Jana\Desktop\wetransfer_bazepodataka2-sql_2021-12-01_1852\StruktuiraniTip\StruktuiraniTip\Kalkulacija\obj\Release\Kalkulacija.csproj.CoreCompileInputs.cache
+C:\Users\Jana\Desktop\wetransfer_bazepodataka2-sql_2021-12-01_1852\StruktuiraniTip\StruktuiraniTip\Kalkulacija\obj\Release\Kalkulacija.dll
+C:\Users\Jana\Desktop\wetransfer_bazepodataka2-sql_2021-12-01_1852\StruktuiraniTip\StruktuiraniTip\Kalkulacija\obj\Release\Kalkulacija.pdb

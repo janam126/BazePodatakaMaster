@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulacija", "Kalkulacija\Kalkulacija.csproj", "{4B8275B8-6E1A-492E-AF14-443B0145FD53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domen", "Domen\Domen.csproj", "{681CBF8C-1961-4BD3-8E19-1ED44947E023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B8275B8-6E1A-492E-AF14-443B0145FD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8275B8-6E1A-492E-AF14-443B0145FD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8275B8-6E1A-492E-AF14-443B0145FD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8275B8-6E1A-492E-AF14-443B0145FD53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{681CBF8C-1961-4BD3-8E19-1ED44947E023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681CBF8C-1961-4BD3-8E19-1ED44947E023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681CBF8C-1961-4BD3-8E19-1ED44947E023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681CBF8C-1961-4BD3-8E19-1ED44947E023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF680A58-BAE1-477C-BFD2-DDC670CCE0A9}
+	EndGlobalSection
+EndGlobal
